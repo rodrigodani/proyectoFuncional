@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+<h1>Fibonacci</h1>
+<form action="{% url 'fib' %}" method="post">
+	<br>
+    {% csrf_token %}
+	<input type="submit" value="VER">
+</form>
+<h1>Calculadora</h1>
+<form action="{% url 'calcu' %}" method="post">
+    {% csrf_token %}
+	<br>
+	A: <input type="text" name="na">
+	B: <input type="text" name="nb">
+	OP: <input type="text" name="op">
+	<input type="submit" value="VER">
+</form>
+<h1>Calculadora Matrices</h1>
+<p>A:&nbsp;&nbsp;1 2&nbsp;&nbsp;&nbsp;&nbsp;B:&nbsp;&nbsp;1 2</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1 2&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1 2</p>
+<form action="{% url 'calcuM' %}" method="post">
+	<br>
+    {% csrf_token %}
+	Operacion <input type="text" name="op">
+	<input type="submit" value="VER">
+</form>
+<h1>Factorial</h1>
+<form action="{% url 'fac' %}" method="post">
+    {% csrf_token %}
+	<br>
+	<input type="text" name="nfac">
+	<input type="submit" value="VER">
+</form>
+<h1>Es primo</h1>
+<form action="{% url 'primo' %}" method="post">
+    {% csrf_token %}
+	<br>
+	<input type="text" name="np">
+	<input type="submit" value="VER">
+</form>
+</body>
+</html>
