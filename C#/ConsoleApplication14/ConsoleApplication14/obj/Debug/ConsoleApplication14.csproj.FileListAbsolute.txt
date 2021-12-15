@@ -1,6 +1,0 @@
-c:\users\usuario\documents\visual studio 2012\Projects\ConsoleApplication14\ConsoleApplication14\bin\Debug\ConsoleApplication14.exe.config
-c:\users\usuario\documents\visual studio 2012\Projects\ConsoleApplication14\ConsoleApplication14\obj\Debug\ConsoleApplication14.csprojResolveAssemblyReference.cache
-c:\users\usuario\documents\visual studio 2012\Projects\ConsoleApplication14\ConsoleApplication14\bin\Debug\ConsoleApplication14.exe
-c:\users\usuario\documents\visual studio 2012\Projects\ConsoleApplication14\ConsoleApplication14\bin\Debug\ConsoleApplication14.pdb
-c:\users\usuario\documents\visual studio 2012\Projects\ConsoleApplication14\ConsoleApplication14\obj\Debug\ConsoleApplication14.exe
-c:\users\usuario\documents\visual studio 2012\Projects\ConsoleApplication14\ConsoleApplication14\obj\Debug\ConsoleApplication14.pdb
