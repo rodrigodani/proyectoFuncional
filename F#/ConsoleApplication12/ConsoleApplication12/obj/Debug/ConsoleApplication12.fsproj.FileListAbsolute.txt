@@ -1,0 +1,9 @@
+c:\users\usuario\documents\visual studio 2012\Projects\ConsoleApplication12\ConsoleApplication12\bin\Debug\ConsoleApplication12.exe.config
+c:\users\usuario\documents\visual studio 2012\Projects\ConsoleApplication12\ConsoleApplication12\bin\Debug\ConsoleApplication12.XML
+c:\users\usuario\documents\visual studio 2012\Projects\ConsoleApplication12\ConsoleApplication12\bin\Debug\ConsoleApplication12.exe
+c:\users\usuario\documents\visual studio 2012\Projects\ConsoleApplication12\ConsoleApplication12\bin\Debug\ConsoleApplication12.pdb
+c:\users\usuario\documents\visual studio 2012\Projects\ConsoleApplication12\ConsoleApplication12\bin\Debug\FSharp.Core.dll
+c:\users\usuario\documents\visual studio 2012\Projects\ConsoleApplication12\ConsoleApplication12\bin\Debug\FSharp.Core.xml
+c:\users\usuario\documents\visual studio 2012\Projects\ConsoleApplication12\ConsoleApplication12\bin\Debug\es\FSharp.Core.resources.dll
+c:\users\usuario\documents\visual studio 2012\Projects\ConsoleApplication12\ConsoleApplication12\obj\Debug\ConsoleApplication12.exe
+c:\users\usuario\documents\visual studio 2012\Projects\ConsoleApplication12\ConsoleApplication12\obj\Debug\ConsoleApplication12.pdb

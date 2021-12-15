@@ -1,0 +1,10 @@
+c:\users\usuario\documents\visual studio 2012\Projects\ConsoleApplication9\ConsoleApplication9\bin\Debug\ConsoleApplication9.exe.config
+c:\users\usuario\documents\visual studio 2012\Projects\ConsoleApplication9\ConsoleApplication9\bin\Debug\ConsoleApplication9.XML
+c:\users\usuario\documents\visual studio 2012\Projects\ConsoleApplication9\ConsoleApplication9\bin\Debug\ConsoleApplication9.exe
+c:\users\usuario\documents\visual studio 2012\Projects\ConsoleApplication9\ConsoleApplication9\bin\Debug\ConsoleApplication9.pdb
+c:\users\usuario\documents\visual studio 2012\Projects\ConsoleApplication9\ConsoleApplication9\bin\Debug\FSharp.Core.dll
+c:\users\usuario\documents\visual studio 2012\Projects\ConsoleApplication9\ConsoleApplication9\bin\Debug\FSharp.Core.xml
+c:\users\usuario\documents\visual studio 2012\Projects\ConsoleApplication9\ConsoleApplication9\bin\Debug\es\FSharp.Core.resources.dll
+c:\users\usuario\documents\visual studio 2012\Projects\ConsoleApplication9\ConsoleApplication9\obj\Debug\ConsoleApplication9.fsprojResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2012\Projects\ConsoleApplication9\ConsoleApplication9\obj\Debug\ConsoleApplication9.exe
+c:\users\usuario\documents\visual studio 2012\Projects\ConsoleApplication9\ConsoleApplication9\obj\Debug\ConsoleApplication9.pdb
